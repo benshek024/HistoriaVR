@@ -2,8 +2,8 @@
   A Virtual Reality Experience for Users to Visit Historical Heritages developed as part of my Bachelor Degree's final year project
 
 # Requirements to Play The Game
-  VR Device & Controllers
-  VR-Ready Computer
+  VR Device & Controllers  
+  VR-Ready Computer  
   Basic knowledge on VR controls
 
 # What is Historia VR?
